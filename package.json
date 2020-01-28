@@ -1,0 +1,17 @@
+{
+  "name": "estagio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Guilherme Cordeiro <guilherme.helly@gmail.com>",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "heroku": "^7.35.1",
+    "nodemon": "^2.0.2",
+    "pg": "^7.17.1",
+    "read-excel-file": "^4.0.5"
+  }
+}

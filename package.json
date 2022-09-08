@@ -12,6 +12,6 @@
     "heroku": "^7.35.1",
     "nodemon": "^2.0.2",
     "pg": "^7.17.1",
-    "read-excel-file": "^4.0.5"
+    "read-excel-file": "^4.1.0"
   }
 }
